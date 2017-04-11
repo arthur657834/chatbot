@@ -1,18 +1,19 @@
+```shell
 pip install nltk
+```
 
-python
+
     import nltk
     nltk.download()
-        d
-        [*] book
-
+        d[\*] book
+```python
 from nltk.book import *
-        
+
 text1
 text1.concordance("former")        
 text1.similar("ship")
 text4.dispersion_plot(["citizens", "democracy", "freedom", "duties", "America"])
-
+```
 
 len(text1)：返回总字数
 
