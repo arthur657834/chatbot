@@ -3,9 +3,10 @@ pip install nltk
 ```
 
 python
-    import nltk
-    nltk.download()
-        d[\*] book
+import nltk
+nltk.download()
+d
+book
 ```python
 from nltk.book import *
 
